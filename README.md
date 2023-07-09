@@ -30,8 +30,6 @@ Start server and then use this project by typing http://localhost:8080/DaInvoice
 
 ## Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LvItYcE6Gzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 [![Project Demo](https://img.youtube.com/vi/LvItYcE6Gzw/0.jpg)](https://youtu.be/LvItYcE6Gzw)
 
 Click the thumbnail above to watch a demo video of the project.
