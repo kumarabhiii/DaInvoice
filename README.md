@@ -1,6 +1,5 @@
 # Project Name
-
-Description of your project goes here.
+A free invoice generator for business.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,27 +11,28 @@ Description of your project goes here.
 - [License](#license)
 
 ## Introduction
-Provide an introduction and overview of your project here.
+DaInvoice is a Invoice generator Web application developed in jQuery, jQueryUI, jQuery validations plugin, HTML, CSS, JSP, Servlet, java and iText7.
 
-## Installation
-Explain how to install and set up your project. Include any dependencies or requirements.
+User can Effortlessly create professional PDF invoices with automated calculations for subtotals, taxes, discounts, and more. User-friendly interface for seamless invoice generation and distribution.
+
+## Requirements
+Tomcat9 web server, JDK, Browser, iText7 PDF Library, jQuery framework, jQueryUI plugin, jQuery Validation plugin.
 
 ## Usage
-Provide instructions on how to use your project. Include examples or code snippets if applicable.
+Start server and then use this project by typing http://localhost:8080/DaInvoice in browser address bar.
 
 ## Features
-- Feature 1: Description of feature 1.
-- Feature 2: Description of feature 2.
-- Feature 3: Description of feature 3.
+- No need for manual calculation for Tax, Discounts, subtotal, paid amount and due amount.
+- User friendly simple User interface.
+- Effortlessly create invoice.
+- Export in PDF Format, pdf format is standard format for invoices.
+- Easy Distribution and more.
 - ...
 
 ## Demo
 [![Project Demo](https://img.youtube.com/vi/LvItYcE6Gzw/0.jpg)](https://youtu.be/LvItYcE6Gzw)
 
-Click the image above to watch a demo video of the project.
-
-## Contributing
-Explain how others can contribute to your project. Provide guidelines for submitting pull requests or reporting issues.
+Click the thumbnail above to watch a demo video of the project.
 
 ## License
 Specify the license under which your project is distributed.
