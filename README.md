@@ -3,11 +3,10 @@ A free invoice generator for business.
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Installation](#installation)
+- [Requirements](#requirements)
 - [Usage](#usage)
 - [Features](#features)
 - [Demo](#demo)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
