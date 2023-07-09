@@ -35,5 +35,5 @@ Start server and then use this project by typing http://localhost:8080/DaInvoice
 Click the thumbnail above to watch a demo video of the project.
 
 ## License
-Specify the license under which your project is distributed.
+Copyright (c) 2023 kumarabhiii
 
